@@ -17,7 +17,7 @@ ServerEvents.recipes(event => {
     }
   );
   event.recipes.createMechanicalCrafting(
-    Item.of("apotheosis:augmenting_table", 1),
+    "ancientreforging:ancient_reforging_table",
     [
       "  D  ",
       " AAA ", //

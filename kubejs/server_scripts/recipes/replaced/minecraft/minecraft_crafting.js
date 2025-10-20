@@ -13,19 +13,6 @@ ServerEvents.recipes(event => {
       C: "minecraft:furnace",
     }
   );
-  // Chain
-  event.shaped(
-    Item.of("minecraft:chain", 2),
-    [
-      "B",
-      "A", //
-      "B",
-    ],
-    {
-      A: "#forge:ingots/iron",
-      B: "minecraft:iron_nugget",
-    }
-  );
   // Chainmail armor
   // Helmet
   event.shaped(
