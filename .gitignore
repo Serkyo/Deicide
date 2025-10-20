@@ -16,3 +16,6 @@
 
 !kubejs/
 !kubejs/**
+
+!defaultconfigs/
+!defaultconfigs/**

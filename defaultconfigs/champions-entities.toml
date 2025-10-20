@@ -1,58 +1,64 @@
-
 #List of entity configurations
 [[entities]]
-  entity = "minecraft:creeper"
-  minTier = 0
-  maxTier = 4
-  presetAffixes = []
-  affixList = ["champions:knocking", "champions:wounding", "champions:paralyzing", "champions:molten"]
-  affixPermission = "BLACKLIST"
-  [[entities]]
-  entity = "minecraft:elder_guardian"
-  minTier = 3
-  maxTier = 3
-  presetAffixes = ["champions:reflective", "champions:shielding", "champions:plagued"]
-  affixList = []
-  affixPermission = "BLACKLIST"
+	entity = "minecraft:creeper"
+	minTier = 0
+	maxTier = 4
+	presetAffixes = []
+	affixList = ["champions:knocking", "champions:wounding", "champions:paralyzing", "champions:molten"]
+	affixPermission = "BLACKLIST"
+
 [[entities]]
-  entity = "minecraft:ender_dragon"
-  minTier = 5
-  maxTier = 5
-  presetAffixes = ["champions:adaptable", "champions:dampening", "champions:paralyzing", "champions:arctic", "champions:molten"]
-  affixList = []
-  affixPermission = "BLACKLIST"
+	entity = "minecraft:elder_guardian"
+	minTier = 3
+	maxTier = 3
+	presetAffixes = ["champions:reflective", "champions:shielding", "champions:plagued"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
 [[entities]]
-  entity = "minecraft:wither"
-  minTier = 5
-  maxTier = 5
-  presetAffixes = ["champions:adaptable", "champions:dampening", "champions:reflective", "champions:desecrating", "champions:infested"]
-  affixList = []
-  affixPermission = "BLACKLIST"
+	entity = "minecraft:ender_dragon"
+	minTier = 5
+	maxTier = 5
+	presetAffixes = ["champions:adaptable", "champions:dampening", "champions:paralyzing", "champions:arctic", "champions:molten"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
 [[entities]]
-  entity = "iceandfire:fire_dragon"
-  minTier = 4
-  maxTier = 4
-  presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:arctic"]
-  affixList = []
-  affixPermission = "BLACKLIST"
+	entity = "minecraft:wither"
+	minTier = 5
+	maxTier = 5
+	presetAffixes = ["champions:adaptable", "champions:dampening", "champions:reflective", "champions:desecrating", "champions:infested"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
 [[entities]]
-  entity = "iceandfire:ice_dragon"
-  minTier = 4
-  maxTier = 4
-  presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:molten"]
-  affixList = []
-  affixPermission = "BLACKLIST"
+	entity = "iceandfire:fire_dragon"
+	minTier = 4
+	maxTier = 4
+	presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:arctic"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
 [[entities]]
-  entity = "iceandfire:lightning_dragon"
-  minTier = 4
-  maxTier = 4
-  presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:paralyzing"]
-  affixList = []
-  affixPermission = "BLACKLIST"
+	entity = "iceandfire:ice_dragon"
+	minTier = 4
+	maxTier = 4
+	presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:molten"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
 [[entities]]
-  entity = "goety:envioker"
-  minTier = 2
-  maxTier = 5
-  presetAffixes = []
-  affixList = []
-  affixPermission = "BLACKLIST"
+	entity = "iceandfire:lightning_dragon"
+	minTier = 4
+	maxTier = 4
+	presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:paralyzing"]
+	affixList = []
+	affixPermission = "BLACKLIST"
+
+[[entities]]
+	entity = "goety:envioker"
+	minTier = 2
+	maxTier = 5
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
