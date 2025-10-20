@@ -1,0 +1,31 @@
+{
+	"ignoreSilencedStatusEffects": true,
+	"positiveStatusEffectGainSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.4,
+		"id": "positiveStatusEffectGain",
+		"soundEvent": "minecraft:block.beacon.power_select"
+	},
+	"negativeStatusEffectGainSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 2.0,
+		"volume": 0.2,
+		"id": "negativeStatusEffectGain",
+		"soundEvent": "minecraft:item.trident.thunder"
+	},
+	"positiveStatusEffectLoseSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.5,
+		"volume": 0.5,
+		"id": "positiveStatusEffectLose",
+		"soundEvent": "minecraft:item.trident.return"
+	},
+	"negativeStatusEffectLoseSoundEffect": {
+		"shouldPlay": true,
+		"pitch": 0.5,
+		"volume": 0.5,
+		"id": "negativeStatusEffectLose",
+		"soundEvent": "minecraft:item.trident.return"
+	}
+}

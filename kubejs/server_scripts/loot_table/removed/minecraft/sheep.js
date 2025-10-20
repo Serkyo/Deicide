@@ -1,0 +1,25 @@
+LootJS.modifiers(event => {
+  const woolColors = [
+    "white_wool",
+    "light_gray_wool",
+    "gray_wool",
+    "black_wool",
+    "brown_wool",
+    "red_wool",
+    "orange_wool",
+    "yellow_wool",
+    "lime_wool",
+    "green_wool",
+    "cyan_wool",
+    "light_blue_wool",
+    "blue_wool",
+    "purple_wool",
+    "magenta_wool",
+    "pink_wool",
+  ];
+  woolColors.forEach(id => {
+    event
+      .addEntityLootModifier("minecraft:sheep")
+      .removeLoot(`minecraft:${id}`);
+  });
+});

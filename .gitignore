@@ -1,0 +1,18 @@
+# Ignore everything by default
+*
+
+# Unignore all directories (so Git can traverse them)
+!*/
+
+# Keep the .gitignore itself
+!/.gitignore
+
+# Whitelist specific files
+!/options.txt
+
+# Whitelist specific folders and their contents
+!config/
+!config/**
+
+!kubejs/
+!kubejs/**
