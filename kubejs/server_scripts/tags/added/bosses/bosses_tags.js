@@ -1,4 +1,4 @@
-ServerEvents.tags("entity", event => {
+ServerEvents.tags("entity_type", event => {
   const bossesWithoutTags = [
     "mowziesmobs:ferrous_wroughtnaut",
     "mowziesmobs:umvuthi",
