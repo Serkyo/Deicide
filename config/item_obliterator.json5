@@ -48,7 +48,11 @@
     "wom:golden_mokassin",
     "artifacts:night_vision_goggles",
     "confluence:magic_mirror",
-    "irons_spellbooks:frostward_ring"
+    "irons_spellbooks:frostward_ring",
+    "artifacts:eternal_steak",
+    "artifacts:everlasting_beef",
+    "relics:infinity_ham",
+    "irons_spellbooks:concentration_amulet"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
