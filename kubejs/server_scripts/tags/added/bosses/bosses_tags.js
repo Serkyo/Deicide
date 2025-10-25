@@ -14,6 +14,7 @@ ServerEvents.tags("entity_type", event => {
     "legendary_monsters:cloud_golem",
     "legendary_monsters:ancient_guardian",
     "legendary_monsters:posessed_paladin",
+    "legendary_monsters:dune_sentinel",
     "aquamirae:captain_cornelia",
     "dungeonnowloading:chaos_spawner",
     "dungeonnowloading:fairkeeper_boros",
