@@ -1,0 +1,137 @@
+
+["Necromancer Spell"]
+	#Necromancer Spell Cost, Default: 500
+	#Range: > 0
+	necromancerCost = 500
+	#Time to cast Necromancer Spell, Default: 600
+	#Range: 0 ~ 72000
+	necromancerTime = 330
+	#Necromancer Spell Cooldown, Default: 1000
+	#Range: > 0
+	necromancerCoolDown = 1000
+	#Necromancer Spell Summon Down, Default: 320
+	#Range: 0 ~ 72000
+	necromancerSummonDown = 320
+	#Number of Necromancer Servants that can a player can have, Default: 2
+	#Range: > 1
+	necromancerLimit = 2
+
+["Thrashing Spell"]
+	#Thrashing Spell Cost, Default: 400
+	#Range: > 0
+	thrashingCost = 300
+	#Time to cast Thrashing Spell, Default: 100
+	#Range: 0 ~ 72000
+	thrashingTime = 100
+	#Thrashing Spell Cooldown, Default: 1200
+	#Range: > 0
+	thrashingCoolDown = 1200
+	#Thrashing Spell Summon Down, Default: 200
+	#Range: 0 ~ 72000
+	thrashingSummonDown = 200
+	#Number of Thrashing Servants that a player can have, Default: 5
+	#Range: > 1
+	thrashingLimit = 5
+
+["FallenKnight Spell"]
+	#FallenKnight Spell Cost, Default: 200
+	#Range: > 0
+	fallenKnightCost = 200
+	#Time to cast FallenKnight Spell, Default: 60
+	#Range: 0 ~ 72000
+	fallenKnightTime = 60
+	#FallenKnight Spell Cooldown, Default: 800
+	#Range: > 0
+	fallenKnightCoolDown = 800
+	#FallenKnight Spell Summon Down, Default: 120
+	#Range: 0 ~ 72000
+	fallenKnightSummonDown = 120
+	#Number of FallenKnight Servants that a player can have, Default: 2
+	#Range: > 2
+	fallenKnightLimit = 10
+
+["Lifestealer Spell"]
+	#Lifestealer Spell Cost, Default: 50
+	#Range: > 0
+	lifestealerCost = 1200
+	#Time to cast Lifestealer Spell, Default: 150
+	#Range: 0 ~ 72000
+	lifestealerTime = 150
+	#Lifestealer Spell Cooldown, Default: 1000
+	#Range: > 0
+	lifestealerCoolDown = 3000
+	#Lifestealer Spell Summon Down, Default: 320
+	#Range: 0 ~ 72000
+	lifestealerSummonDown = 600
+	#Number of Lifestealer Servants that a player can have, Default: 1
+	#Range: > 1
+	lifestealerLimit = 1
+
+["Chaos Army Spell"]
+	#Chaos Army Spell Cost, Default: 120
+	#Range: > 0
+	chaosArmyCost = 120
+	#Time to cast Chaos Army Spell, Default: 60
+	#Range: 0 ~ 72000
+	chaosArmyTime = 60
+	#Chaos Army Spell Cooldown, Default: 700
+	#Range: > 0
+	chaosArmyCoolDown = 700
+	#Chaos Army Spell Summon Down, Default: 120
+	#Range: 0 ~ 72000
+	chaosArmySummonDown = 120
+	#Number of Chaos Army Servants that a player can have, Default: 20
+	#Range: > 1
+	chaosArmyLimit = 20
+
+["Skeleton Horse Focus"]
+	#Skeleton Horse Focus Cost, Default: 100
+	#Range: > 0
+	skeletonHorseCost = 60
+	#Time to cast Skeleton Horse Focus, Default: 20
+	#Range: 0 ~ 72000
+	skeletonHorseTime = 20
+	#Skeleton Horse Focus Cooldown, Default: 300
+	#Range: > 0
+	skeletonHorseCoolDown = 300
+	#Skeleton Horse Focus Summon Down, Default: 20
+	#Range: 0 ~ 72000
+	skeletonHorseSummonDown = 20
+	#Number of Skeleton Horses a player can have, Default: 10
+	#Range: > 1
+	skeletonHorseLimit = 10
+
+["Riding Felsteed Focus"]
+	#Riding Felsteed Focus Cost, Default: 500
+	#Range: > 0
+	ridingFelsteedCost = 200
+	#Time to cast Riding Felsteed Focus, Default: 20
+	#Range: 0 ~ 72000
+	ridingFelsteedTime = 20
+	#Riding Felsteed Focus Cooldown, Default: 300
+	#Range: > 0
+	ridingFelsteedCoolDown = 300
+	#Riding Felsteed Focus Summon Down, Default: 20
+	#Range: 0 ~ 72000
+	ridingFelsteedSummonDown = 20
+	#Number of Riding Felsteeds a player can have, Default: 2
+	#Range: > 1
+	ridingFelsteedLimit = 2
+
+["Riding Lord Felsteed Focus"]
+	#Riding Lord Felsteed Focus Cost, Default: 2000
+	#Range: > 0
+	ridingLordFelsteedCost = 500
+	#Time to cast Riding Lord Felsteed Focus, Default: 20
+	#Range: 0 ~ 72000
+	ridingLordFelsteedTime = 20
+	#Riding Lord Felsteed Focus Cooldown, Default: 300
+	#Range: > 0
+	ridingLordFelsteedCoolDown = 300
+	#Riding Lord Felsteed Focus Summon Down, Default: 20
+	#Range: 0 ~ 72000
+	ridingLordFelsteedSummonDown = 20
+	#Number of Riding Lord Felsteeds a player can have, Default: 1
+	#Range: > 1
+	ridingLordFelsteedLimit = 1
+
