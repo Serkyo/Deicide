@@ -440,6 +440,17 @@
         "value": 100
       }
     },
+    "additional_attributes:spell/traveloptics/herald_of_acropolis": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:innate_spell/ias_spellbooks/spirits_chosen": {
       "enabled": false,
       "min": {
@@ -1937,6 +1948,17 @@
       }
     },
     "additional_attributes:spell/alshanex_familiars/sonata": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:innate_spell/traveloptics/herald_of_acropolis": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -4334,6 +4356,17 @@
         "value": 100
       }
     },
+    "additional_attributes:innate_spell/traveloptics/galena_shatter": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:innate_spell/irons_spellbooks/slow": {
       "enabled": false,
       "min": {
@@ -4775,6 +4808,17 @@
       }
     },
     "additional_attributes:spell/traveloptics/vortex_of_the_deep": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell/traveloptics/galena_shatter": {
       "enabled": false,
       "min": {
         "default": 0,
