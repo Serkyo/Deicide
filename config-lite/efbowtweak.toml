@@ -1,0 +1,8 @@
+
+["General Settings"]
+	#Adjust the bow offset, positive values move the bow to the right and vice versa. Default value is 0.1
+	#Range: -10.0 ~ 10.0
+	bowOffset = 0.1
+	#Add the name of the bow that you want to be affected by this mod here with the format mod_id:weapon_name, for example: minecraft:bow
+	customBowList = [""]
+
