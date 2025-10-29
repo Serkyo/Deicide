@@ -757,6 +757,11 @@
     "modId": "fallen_gems_affixes",
     "version": "1.20.1-1.2.1"
   },
+  "fancytoasts-forge-1.20.1-1.4.3-patch.jar": {
+    "jarName": "fancytoasts-forge-1.20.1-1.4.3-patch.jar",
+    "modId": "fancytoasts",
+    "version": "1.4.3"
+  },
   "fantasy_armor-1.1.1-1.20.1.jar": {
     "jarName": "fantasy_armor-1.1.1-1.20.1.jar",
     "modId": "fantasy_armor",
@@ -1097,6 +1102,16 @@
     "modId": "item_obliterator",
     "version": "2.3.0"
   },
+  "itemobliteratordespawnfix-1.0.0.jar": {
+    "jarName": "itemobliteratordespawnfix-1.0.0.jar",
+    "modId": "itemobliteratordespawnfix",
+    "version": "1.0.0"
+  },
+  "Ixeris-3.6.0+1.20.1-forge.jar": {
+    "jarName": "Ixeris-3.6.0+1.20.1-forge.jar",
+    "modId": "ixeris",
+    "version": "3.6.0+1.20.1-forge"
+  },
   "Jade-1.20.1-Forge-11.13.2.jar": {
     "jarName": "Jade-1.20.1-Forge-11.13.2.jar",
     "modId": "jade",
@@ -1144,6 +1159,11 @@
   },
   "kotlinforforge-4.11.0-all.jar": {
     "jarName": "kotlinforforge-4.11.0-all.jar"
+  },
+  "Krypton FNP-forge-1.20.1-0.2.24-lite.jar": {
+    "jarName": "Krypton FNP-forge-1.20.1-0.2.24-lite.jar",
+    "modId": "krypton_fnp",
+    "version": "0.2.24-lite"
   },
   "kubejs-create-forge-2001.3.0-build.8.jar": {
     "jarName": "kubejs-create-forge-2001.3.0-build.8.jar",
@@ -1594,6 +1614,11 @@
     "jarName": "resourcefullib-forge-1.20.1-2.1.29.jar",
     "modId": "resourcefullib",
     "version": "2.1.29"
+  },
+  "respawnobelisks-2.6-b.jar": {
+    "jarName": "respawnobelisks-2.6-b.jar",
+    "modId": "respawnobelisks",
+    "version": "2.6-b"
   },
   "rhino-forge-2001.2.3-build.10.jar": {
     "jarName": "rhino-forge-2001.2.3-build.10.jar",
