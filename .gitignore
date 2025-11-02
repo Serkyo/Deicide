@@ -14,6 +14,9 @@
 !config/
 !config/**
 
+!lite_version_overrides/
+!lite_version_overrides/**
+
 !kubejs/
 !kubejs/**
 
