@@ -35,7 +35,7 @@
 	entity = "iceandfire:fire_dragon"
 	minTier = 4
 	maxTier = 4
-	presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:arctic"]
+	presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:molten"]
 	affixList = []
 	affixPermission = "BLACKLIST"
 
@@ -43,7 +43,7 @@
 	entity = "iceandfire:ice_dragon"
 	minTier = 4
 	maxTier = 4
-	presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:molten"]
+	presetAffixes = ["champions:adaptable", "champions:wounding", "champions:knocking", "champions:arctic"]
 	affixList = []
 	affixPermission = "BLACKLIST"
 
