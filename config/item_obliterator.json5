@@ -52,7 +52,23 @@
     "artifacts:eternal_steak",
     "artifacts:everlasting_beef",
     "relics:infinity_ham",
-    "irons_spellbooks:concentration_amulet"
+    "irons_spellbooks:concentration_amulet",
+    "born_in_chaos_v1:monster_flesh",
+    "born_in_chaos_v1:smoked_monster_flesh",
+    "sophisticatedbackpacks:feeding_upgrade",
+    "sophisticatedbackpacks:advanced_feeding_upgrade",
+    "sophisticatedbackpacks:alchemy_upgrade",
+    "sophisticatedbackpacks:advanced_alchemy_upgrade",
+    "sophisticatedbackpacks:stack_upgrade_starter_tier",
+    "sophisticatedbackpacks:stack_upgrade_tier_1",
+    "sophisticatedbackpacks:stack_upgrade_tier_2",
+    "sophisticatedbackpacks:stack_upgrade_tier_3",
+    "sophisticatedbackpacks:stack_upgrade_tier_4",
+    "sophisticatedbackpacks:stack_upgrade_omega_tier"
+    "sophisticatedstorage:feeding_upgrade",
+    "sophisticatedstorage:advanced_feeding_upgrade",
+    "sophisticatedstorage:alchemy_upgrade",
+    "sophisticatedstorage:advanced_alchemy_upgrade"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
