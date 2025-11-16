@@ -48,5 +48,3 @@ ServerEvents.tags("entity_type", event => {
     event.add("forge:bosses", `${id}`);
   });
 });
-
-// a finir
