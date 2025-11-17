@@ -461,7 +461,7 @@
 	Active = true
 	#Max level of enchantment
 	"Max Level" = 2
-	#Should enchantment be findable in loot
+	#Should you be able to find this enchantment on naturally generated loot
 	Findable = false
 
 ["Ice Breaker"]
@@ -485,4 +485,10 @@
 	"Base reduction" = 0.1
 	#Damage reduction per level
 	"Reduction per level" = 0.05
+
+[Repairable]
+	#Activates or disables enchantment
+	Active = true
+	#Should you be able to find this enchantment on naturally generated loot
+	Findable = false
 

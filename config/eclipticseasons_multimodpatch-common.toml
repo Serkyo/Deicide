@@ -1,0 +1,10 @@
+
+#In Control
+[incontrol]
+	Enable = true
+
+#Goety
+[goety]
+	Enable = true
+	FakeSeasonsLoaded = true
+
