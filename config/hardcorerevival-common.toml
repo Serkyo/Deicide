@@ -28,4 +28,6 @@ glowOnKnockout = false
 allowPistols = false
 #Set to false to remove the Accept your Fate button and force players to wait out the timer.
 allowAcceptingFate = true
+#The source entity types that kill a player instantly, without a K.O. period.
+instantDeathEntityTypes = []
 
