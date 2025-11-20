@@ -282,7 +282,12 @@
 		"immersive_weathering:chipped/frosted_dark_oak_leaf_pile",
 		"immersive_weathering:burnt/blast_leaf_pile",
 		"immersive_weathering:fruitsdelight/apple_leaf_pile",
-		"immersive_weathering:biomeswevegone/flowering_indigo_jacaranda_leaf_pile"
+		"immersive_weathering:biomeswevegone/flowering_indigo_jacaranda_leaf_pile",
+		"burnt:broken_burnt_log",
+		"burnt:small_burnt_log",
+		"burnt:stripped_broken_burnt_log",
+		"burnt:fallen_burnt_slab",
+		"burnt:burnt_bamboo_log"
 	]
 
 
