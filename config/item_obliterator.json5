@@ -74,7 +74,9 @@
     "apotheotic_additions:esoteric_material",
     "galosphere:silver_ingot",
     "galosphere:silver_nugget",
-    "galosphere:raw_silver"
+    "galosphere:raw_silver",
+    "simplyswords:contained_remnant",
+    "simplyswords:tampered_remnant"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
