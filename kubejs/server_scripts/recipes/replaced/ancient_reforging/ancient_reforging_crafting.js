@@ -11,7 +11,7 @@ ServerEvents.recipes(event => {
     {
       A: "apotheosis:ancient_material",
       B: "apotheosis:mythic_material",
-      C: "apotheosis:simple_reforging_table",
+      C: "apotheosis:reforging_table",
       D: "minecraft:nether_bricks",
       E: "irons_spellbooks:dragonskin",
       F: "apotheosis:sigil_of_enhancement",
