@@ -962,7 +962,7 @@
 		AllowCrafting = true
 
 	[Spells."darkdoppelganger:doppel_portal"]
-		Enabled = false
+		Enabled = true
 		School = "irons_spellbooks:ender"
 		MaxLevel = 1
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
@@ -1127,7 +1127,7 @@
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:portal"]
-		Enabled = true
+		Enabled = false
 		School = "irons_spellbooks:ender"
 		MaxLevel = 3
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
