@@ -9,7 +9,7 @@
     */
     "preset": "none",
     // Whether players are allowed to respawn at an obelisk in hardcore mode.
-    "allowHardcoreRespawning": true,
+    "allowHardcoreRespawning": false,
     "behaviorOverrides": {
         /*
         A list of blocks that players cannot respawn at.
