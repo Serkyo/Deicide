@@ -847,17 +847,6 @@
         "value": 100
       }
     },
-    "fallen_gems_affixes:projectile_speed": {
-      "enabled": false,
-      "min": {
-        "default": -0.99,
-        "value": -0.99
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
     "additional_attributes:spell/traveloptics/blood_howl": {
       "enabled": false,
       "min": {
@@ -867,6 +856,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "fallen_gems_affixes:projectile_speed": {
+      "enabled": false,
+      "min": {
+        "default": -0.99,
+        "value": -0.99
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "goety:spell_velocity": {
@@ -1375,17 +1375,6 @@
         "value": 100
       }
     },
-    "fallen_gems_affixes:reload_speed": {
-      "enabled": false,
-      "min": {
-        "default": -0.99,
-        "value": -0.99
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
     "additional_attributes:spell_type_spider_aspect": {
       "enabled": false,
       "min": {
@@ -1395,6 +1384,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "fallen_gems_affixes:reload_speed": {
+      "enabled": false,
+      "min": {
+        "default": -0.99,
+        "value": -0.99
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "additional_attributes:innate_school/irons_spellbooks/ice": {
@@ -2321,17 +2321,6 @@
         "value": 100
       }
     },
-    "fallen_gems_affixes:kick_reduction": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "additional_attributes:innate_spell/irons_spellbooks/wall_of_fire": {
       "enabled": false,
       "min": {
@@ -2341,6 +2330,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "fallen_gems_affixes:kick_reduction": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "additional_attributes:innate_spell/alshanex_familiars/explosion_melody": {
@@ -4554,17 +4554,6 @@
         "value": 100
       }
     },
-    "puffish_attributes:stamina": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "additional_attributes:spell/traveloptics/cursed_minefield": {
       "enabled": false,
       "min": {
@@ -4574,6 +4563,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "puffish_attributes:stamina": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "forge:nametag_distance": {
@@ -5511,17 +5511,6 @@
         "value": 10
       }
     },
-    "fallen_gems_affixes:fire_rate": {
-      "enabled": false,
-      "min": {
-        "default": -0.99,
-        "value": -0.99
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
     "additional_attributes:innate_spell/traveloptics/orbital_void": {
       "enabled": false,
       "min": {
@@ -5531,6 +5520,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "fallen_gems_affixes:fire_rate": {
+      "enabled": false,
+      "min": {
+        "default": -0.99,
+        "value": -0.99
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "additional_attributes:spell/traveloptics/stele_cascade": {

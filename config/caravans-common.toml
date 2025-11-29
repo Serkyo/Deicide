@@ -1,9 +1,9 @@
+#Whether Pillager Caravans should be active at all.
+enabled = true
 #Whether to show a toast when a player encounters a caravan.
 showEncounterToast = true
 #Whether to use light mode for the toast.
 toastLightMode = false
-#Whether Pillager Caravans should be active at all.
-enabled = true
 
 [SpawnOptions]
 	#Additional multiplier applied to the base cooldowns defined in the datapack.

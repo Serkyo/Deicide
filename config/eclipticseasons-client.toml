@@ -75,6 +75,8 @@
 	#Number of particles emitted by the season greenhouse effect. The higher the value, the denser the effect.
 	#Range: 0 ~ 160
 	SeasonGreenhouseParticleSpawnCount = 30
+	#Snow-covered leaves will drop snow particles when broken.
+	SnowLeafParticles = true
 
 [Weather]
 	#Radius (in blocks) around the player within which weather is sampled and averaged to create smoother local weather transitions.
