@@ -4,11 +4,6 @@
     "modId": "forge",
     "version": "fmlloader-1.20.1-47.4.0.jar"
   },
-  "1.0.6-1.20.1-Forge.jar": {
-    "jarName": "1.0.6-1.20.1-Forge.jar",
-    "modId": "timm",
-    "version": "1.0.0-Forge"
-  },
   "[1.20.1-Forge] Additional Placements-2.3.1.jar": {
     "jarName": "[1.20.1-Forge] Additional Placements-2.3.1.jar",
     "modId": "additionalplacements",
@@ -1127,10 +1122,10 @@
     "modId": "iceberg",
     "version": "1.1.25"
   },
-  "IDA-v2.0.3.jar": {
-    "jarName": "IDA-v2.0.3.jar",
+  "IDA-v2.0.4.jar": {
+    "jarName": "IDA-v2.0.4.jar",
     "modId": "integrated_dungeons_arise",
-    "version": "2.0.3"
+    "version": "2.0.4"
   },
   "illageandspillagerespillaged-1.2.8.jar": {
     "jarName": "illageandspillagerespillaged-1.2.8.jar",
@@ -2049,6 +2044,11 @@
     "jarName": "TheOuterEnd-1.0.12.jar",
     "modId": "outer_end",
     "version": "1.0.0"
+  },
+  "timm-1.1.0-Forge-1.20.1.jar": {
+    "jarName": "timm-1.1.0-Forge-1.20.1.jar",
+    "modId": "timm",
+    "version": "1.1.0-Forge"
   },
   "ToolBelt-1.20.1-1.20.02.jar": {
     "jarName": "ToolBelt-1.20.1-1.20.02.jar",
