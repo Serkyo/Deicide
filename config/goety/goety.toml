@@ -18,7 +18,7 @@
 	starterBook = false
 	#Gives Players the Witch's Brew when first entering World and Patchouli is loaded, Default: false
 	starterWitchBook = false
-	#Entities part of a Player's Book of Goodwill will not take most damage from said Player rather than just spells, Default: false
+	#Entities part of a Player's Grimoire of Goodwill will not take most damage from said Player rather than just spells, Default: false
 	goodwillNoDamage = false
 	#Show the Soul Energy Bar if Player has Totem of Souls/Arca, Default: true
 	soulGuiShow = true
@@ -48,6 +48,8 @@
 	bossMusic = true
 	#Players camera can shake. Default: true
 	cameraShake = true
+	#Entities part of a Player's Grimoire of Goodwill will be considered as the Player's ally codewise, Default: true
+	goodwillFullAlly = true
 
 ["Mod Compatibility"]
 	#If enabled, Ender Dragon's Fireballs will leave clouds that damages even undead and will not hit itself. Default: false

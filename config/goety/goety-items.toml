@@ -113,6 +113,9 @@
 		warlockRobeWitchNeutral = true
 		#Whether wearing a Nether Robe will cause Witches and Warlocks to be neutral, Default: true
 		netherRobeWitchNeutral = true
+		#Determines how far Void Robes wearers can teleport away from original position, Default: 4
+		#Range: > 1
+		voidRobeTeleportDistance = 4
 
 ["Tools & Weapons"]
 

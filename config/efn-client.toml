@@ -1,0 +1,36 @@
+
+[judgementcut_end_camera]
+	#Enable/disable camera animations for JudgementCut-End
+	#When enabled, JudgementCut-End will play cinematic camera animations
+	#This is a CLIENT-SIDE only setting
+	#Default: true (enabled)
+	enableCameraAnimations = true
+
+[judgementcut_end_particles]
+	#Enable/disable particle effects for JudgementCut-End
+	#Disable Judgement Cut End's particle effects that may cause rendering incompatibility
+	#This is a CLIENT-SIDE only setting
+	#Default: true (enabled)
+	enableJudgementCutEndParticles = true
+
+[judgementcut_end_screendistortion_effect]
+	#Enable/disable screendistortion effects for JudgementCut-End
+	#Disable Judgement Cut End's screendistortion effects
+	#This is a CLIENT-SIDE only setting
+	#Default: true (enabled)
+	enableJudgementCutEndScreendistortion = true
+
+[bloodlust_posteffect]
+	#Enable/disable post-effect when bloodlust's skill active
+	#When enabled, bloodlust's skill will play post-effect
+	#This is a CLIENT-SIDE only setting
+	#Default: true (enabled)
+	enableBloodlustPostEffect = true
+
+[beastclaw_posteffect]
+	#Enable/disable post-effect when beastclaw's skill active
+	#When enabled, beastclaw's skill will play post-effect
+	#This is a CLIENT-SIDE only setting
+	#Default: true (enabled)
+	enableBeastclawPostEffect = true
+

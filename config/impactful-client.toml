@@ -1,6 +1,9 @@
 
-["client screen shake setting"]
+["global setting"]
 	disable_screen_shake = false
+	disable_radial_blur = false
 	#Range: 0.0 ~ 10.0
-	global_screen_shake_amplitude = 1.0
+	screen_shake_amplitude = 1.0
+	#Range: 0.0 ~ 10.0
+	radial_blur_rate = 0.025
 

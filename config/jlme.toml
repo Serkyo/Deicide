@@ -163,6 +163,8 @@
 	Active = true
 	#Max level of enchantment
 	"Max Level" = 5
+	#Should enchantment be findable in loot
+	Findable = true
 
 ["Advanced Lure"]
 	#Activates or disables enchantment

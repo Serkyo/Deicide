@@ -1,6 +1,6 @@
 
 [General]
-	#Multiplies the damage of spells by this amount, Default: 1
+	#Multiplies the damage of spells by this amount, this will will be multiplied by 'spellDamageMultiplierDecimal', Default: 1
 	#Range: > 1
 	spellDamageMultiplier = 1
 	#Whether Servants change navigation modes by hitting them, put false to make them change by right-clicking on them, Default: true
@@ -18,6 +18,9 @@
 	spellDamageEnderDragon = true
 	#Casting Spells will cause the caster to completely stop moving, Default: false
 	fullStopCast = false
+	#Multiplies the damage of spells by this amount in decimals, this will will be multiplied by 'spellDamageMultiplier', Default: 1.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	spellDamageMultiplierDecimal = 1.0
 
 [Spells]
 
@@ -1251,6 +1254,12 @@
 		#Biomine Spell Cooldown, Default: 200
 		#Range: > 0
 		biomineCoolDown = 200
+		#How much base damage Biomine explosion deals, Default: 3.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		biomineDamage = 3.0
+		#How much base damage Biomine acid cloud deals, Default: 2.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		biomineAcidDamage = 2.0
 
 	[Spells."Tidal Spell"]
 		#Tidal Spell Cost, Default: 24
@@ -1622,7 +1631,7 @@
 		#Range: > 0
 		stellarCost = 16
 		#Time to cast Stellar Spell, Default: 35
-		#Range: 0 ~ 72000
+		#Range: 15 ~ 72000
 		stellarDuration = 35
 		#Stellar Spell Cooldown, Default: 100
 		#Range: > 0
@@ -1645,6 +1654,37 @@
 		#Range: 1.0 ~ 1.7976931348623157E308
 		voidFlashDamage = 7.0
 
+	[Spells."Carrion Spell"]
+		#Carrion Spell Cost, Default: 16
+		#Range: > 0
+		carrionCost = 16
+		#Time to cast Carrion Spell, Default: 100
+		#Range: 0 ~ 72000
+		carrionTime = 100
+		#Carrion Spell Cooldown, Default: 300
+		#Range: > 0
+		carrionCoolDown = 300
+		#Carrion Spell Summon Down, Default: 200
+		#Range: 0 ~ 72000
+		carrionSummonDown = 200
+		#Number of Carrion Maggots and Flies a player can have, Default: 32
+		#Range: > 1
+		carrionLimit = 32
+
+	[Spells."Water Whip Spell"]
+		#Water Whip Spell Cost, Default: 16
+		#Range: > 0
+		waterWhipCost = 16
+		#Time to cast Water Whip Spell, Default: 0
+		#Range: 0 ~ 72000
+		waterWhipTime = 0
+		#Water Whip Spell Cooldown, Default: 10
+		#Range: > 0
+		waterWhipCoolDown = 10
+		#How much base damage the spell deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		waterWhipDamage = 4.0
+
 ["Servant Limits"]
 	#Number of Spider Servants that an individual player can have in total, Default: 32
 	#Range: > 1
@@ -1661,7 +1701,7 @@
 	#Number of Wither Necromancer Servants that an individual player can have in total, Default: 2
 	#Range: > 1
 	witherNecromancerLimit = 2
-	#Number of Bound Illager Servants that an individual player can have in total, Default: 2
+	#Number of Bound Illager Servants that an individual player can have in total, Default: 8
 	#Range: > 1
 	boundIllagerLimit = 2
 	#Number of Black Beast Servants that an individual player can have in total, Default: 2
@@ -1696,7 +1736,7 @@
 	#Radius Maximum Enchantment Level, Default: 2
 	#Range: 1 ~ 10
 	maxRadiusLevel = 2
-	#Range Maximum Enchantment Level, Default: 10
+	#Range Maximum Enchantment Level, Default: 5
 	#Range: 1 ~ 10
 	maxRangeLevel = 10
 	#Duration Maximum Enchantment Level, Default: 3
@@ -1708,4 +1748,9 @@
 	#Velocity Maximum Enchantment Level, Default: 5
 	#Range: 1 ~ 10
 	maxVelocityLevel = 5
+	#Whether Focus Enchantments can appear on Villager Trade Pools, Default: true
+	focusEnchantsTrades = true
+	#How much power Potency increases, Default: 1
+	#Range: > 1
+	potencyPower = 1
 

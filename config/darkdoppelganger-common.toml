@@ -25,6 +25,15 @@
 	banned_armor = ["cataclysm:cursium_helmet", "cataclysm:cursium_chestplate", "cataclysm:cursium_leggings", "cataclysm:cursium_boots", "mycoolmod:*"]
 	#List of all spells the Dark Doppelganger can use in the final phase (Hard mode must be enabled)
 	final_phase_spells = ["irons_spellbooks:eldritch_blast", "irons_spellbooks:echoing_strikes", "traveloptics:solar_flare", "traveloptics:meteor_storm", "traveloptics:shadowed_miasma", "irons_spellbooks:abyssal_shroud", "traveloptics:tidal_grasp"]
+	#Maximum damage the Dark Doppelganger can take from a single hit.
+	#Set to 0 to disable the cap.
+	#Range: 0.0 ~ 100000.0
+	damage_cap_per_hit = 150.0
+	#Multiplier applied to all of the Dark Doppelganger's spell power attributes
+	#after copying them from the summoner.
+	#1.0 = same as player, 1.5 = +50%, 2.0 = double, etc.
+	#Range: 0.0 ~ 10.0
+	spell_power_multiplier = 1.25
 
 #Minion Configuration
 [minion]

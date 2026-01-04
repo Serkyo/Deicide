@@ -1,0 +1,7 @@
+
+[hud]
+	#The execution HUD type used for rendering, e.g. 'combat_evolution:default'
+	hudType = "combat_evolution:default"
+	#Whether to show text display in the execution HUD
+	showTextDisplay = true
+
