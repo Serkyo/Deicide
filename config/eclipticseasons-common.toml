@@ -59,7 +59,7 @@
 	#It will snow in cold time.
 	IceAndSnow = false
 	#Add heat stroke effect in summer noon while in hot biome.
-	HeatStroke = true
+	HeatStroke = false
 	#If enabled, water placed in frozen biomes will behave as in vanilla and freeze into ice.
 	WaterFreezesInFrozenBiomes = true
 
