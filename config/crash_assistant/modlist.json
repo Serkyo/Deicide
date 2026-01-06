@@ -235,6 +235,13 @@
     "curseForgeHash": 63885764,
     "modrinthHash": "c6a43bb40d8359bff53d6e643564bf25b71522c3"
   },
+  "azurelib-neo-1.20.1-3.1.3.jar": {
+    "jarName": "azurelib-neo-1.20.1-3.1.3.jar",
+    "modId": "azurelib",
+    "version": "3.1.3",
+    "curseForgeHash": 1668362222,
+    "modrinthHash": "37ba8009f7d44db5701738462acc0874e828cf8c"
+  },
   "baguettelib-1.20.1-Forge-1.1.5.jar": {
     "jarName": "baguettelib-1.20.1-Forge-1.1.5.jar",
     "modId": "baguettelib",
@@ -242,12 +249,12 @@
     "curseForgeHash": 734602455,
     "modrinthHash": "7aaab6216e7fc72e1606b1e35f1f56a18f01153f"
   },
-  "balm-forge-1.20.1-7.3.37-all.jar": {
-    "jarName": "balm-forge-1.20.1-7.3.37-all.jar",
+  "balm-forge-1.20.1-7.3.38-all.jar": {
+    "jarName": "balm-forge-1.20.1-7.3.38-all.jar",
     "modId": "balm",
-    "version": "7.3.37",
-    "curseForgeHash": 3384992026,
-    "modrinthHash": "bb7af11fd4bc2e76fce98f90c752279ae381b934"
+    "version": "7.3.38",
+    "curseForgeHash": 3717034118,
+    "modrinthHash": "515905f87268f1eb5af2a9878a84914517efe552"
   },
   "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar": {
     "jarName": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
@@ -395,6 +402,13 @@
     "version": "1.4.1",
     "curseForgeHash": 3658228451,
     "modrinthHash": "1ea9770efcae23638372bb4c92eeb24b5a967cb6"
+  },
+  "cataclysm_spellbooks-1.2.7-1.20.1-all.jar": {
+    "jarName": "cataclysm_spellbooks-1.2.7-1.20.1-all.jar",
+    "modId": "cataclysm_spellbooks",
+    "version": "1.2.7-1.20.1",
+    "curseForgeHash": 2000277970,
+    "modrinthHash": "16fa5aed8c6834bd56f04f44ebb21c8cb2b2dc8d"
   },
   "cavedust-2.0.4-1.20.1-forge.jar": {
     "jarName": "cavedust-2.0.4-1.20.1-forge.jar",
@@ -765,12 +779,12 @@
     "curseForgeHash": 1502989370,
     "modrinthHash": "072677d8205e108b69074baa032f62668ad6edb6"
   },
-  "darkdoppelganger-9.5.1-1.20.1.jar": {
-    "jarName": "darkdoppelganger-9.5.1-1.20.1.jar",
+  "darkdoppelganger-9.6.0-1.20.1.jar": {
+    "jarName": "darkdoppelganger-9.6.0-1.20.1.jar",
     "modId": "darkdoppelganger",
-    "version": "9.5.1-1.20.1",
-    "curseForgeHash": 3013770666,
-    "modrinthHash": "8cee5fd7d0e31ffee6f7be0b1a6ca4bf53f05e75"
+    "version": "9.6.0-1.20.1",
+    "curseForgeHash": 1543019780,
+    "modrinthHash": "b450a0b221476cc9a3e3e2c0c8d38b7e2f3e9ae2"
   },
   "Darker Depths-1.20.1-2.0.7.jar": {
     "jarName": "Darker Depths-1.20.1-2.0.7.jar",
@@ -940,12 +954,12 @@
     "curseForgeHash": 2673318611,
     "modrinthHash": "45f07c5d51e0a1f3a27cc88dd34a33ca41ca8d11"
   },
-  "EclipticSeasons-1.20.1-forge-0.12.5.9-all.jar": {
-    "jarName": "EclipticSeasons-1.20.1-forge-0.12.5.9-all.jar",
+  "EclipticSeasons-1.20.1-forge-0.12.5.9.0.0.1-all.jar": {
+    "jarName": "EclipticSeasons-1.20.1-forge-0.12.5.9.0.0.1-all.jar",
     "modId": "eclipticseasons",
-    "version": "0.12.5.9",
-    "curseForgeHash": 3416763054,
-    "modrinthHash": "b0715fabe270d4c165d0a983dc92046527aad523"
+    "version": "0.12.5.9.0.0.1",
+    "curseForgeHash": 4142081399,
+    "modrinthHash": "1cac3c3d3deb524745f1276ef5ca1415b7d37073"
   },
   "EclipticSeasonsBWG-1.0.jar": {
     "jarName": "EclipticSeasonsBWG-1.0.jar",
@@ -996,12 +1010,12 @@
     "curseForgeHash": 104637065,
     "modrinthHash": "d8049d6ec86befcd100a0ff0fc8ebc289f735997"
   },
-  "emi_loot-0.7.8+1.20.1-fix1+forge.jar": {
-    "jarName": "emi_loot-0.7.8+1.20.1-fix1+forge.jar",
+  "emi_loot-0.7.9+1.20.1+forge.jar": {
+    "jarName": "emi_loot-0.7.9+1.20.1+forge.jar",
     "modId": "emi_loot",
-    "version": "0.7.8+1.20.1-fix1+forge",
-    "curseForgeHash": 3853115913,
-    "modrinthHash": "9df02cff0f37498510ae90f007dae4fb8a4ea7c1"
+    "version": "0.7.9+1.20.1+forge",
+    "curseForgeHash": 170738210,
+    "modrinthHash": "e3f6289abd4de8ebbbb0ffc162b35346c3acd54f"
   },
   "emitrades-forge-1.2.1+mc1.20.1.jar": {
     "jarName": "emitrades-forge-1.2.1+mc1.20.1.jar",
@@ -2695,12 +2709,12 @@
     "curseForgeHash": 203125196,
     "modrinthHash": "3da2d7a6c27f333a71a547076d0379c5295ee4c1"
   },
-  "sophisticatedstorage-1.20.1-1.4.18.1413.jar": {
-    "jarName": "sophisticatedstorage-1.20.1-1.4.18.1413.jar",
+  "sophisticatedstorage-1.20.1-1.4.19.1416.jar": {
+    "jarName": "sophisticatedstorage-1.20.1-1.4.19.1416.jar",
     "modId": "sophisticatedstorage",
-    "version": "1.4.18.1413",
-    "curseForgeHash": 1187892567,
-    "modrinthHash": "0931a744821ad9e446b3f03c73fb8d1052f84697"
+    "version": "1.4.19.1416",
+    "curseForgeHash": 4080689532,
+    "modrinthHash": "c449acc1930fb410d1fcc37c9449e7c236b287fa"
   },
   "sophisticatedstoragecreateintegration-1.20.1-0.1.15.63.jar": {
     "jarName": "sophisticatedstoragecreateintegration-1.20.1-0.1.15.63.jar",
@@ -2912,12 +2926,12 @@
     "curseForgeHash": 4191736142,
     "modrinthHash": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7"
   },
-  "traveloptics-6.2.0-1.20.1.jar": {
-    "jarName": "traveloptics-6.2.0-1.20.1.jar",
+  "traveloptics-6.2.5-1.20.1.jar": {
+    "jarName": "traveloptics-6.2.5-1.20.1.jar",
     "modId": "traveloptics",
-    "version": "6.2.0-1.20.1",
-    "curseForgeHash": 650691817,
-    "modrinthHash": "4102f3faf3dcbdbfcd4199e4ff2d6bc2188aa08d"
+    "version": "6.2.5-1.20.1",
+    "curseForgeHash": 173946423,
+    "modrinthHash": "48b0a5eb859b7714a48e58ae21b0af5802c62ccf"
   },
   "TreeChop-1.20.1-forge-0.19.0-fixed.jar": {
     "jarName": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
@@ -2982,12 +2996,12 @@
     "curseForgeHash": 2699356434,
     "modrinthHash": "563804910a7ebb1082c1eedca363b16e2c572459"
   },
-  "voicechat-forge-1.20.1-2.6.10.jar": {
-    "jarName": "voicechat-forge-1.20.1-2.6.10.jar",
+  "voicechat-forge-1.20.1-2.6.11.jar": {
+    "jarName": "voicechat-forge-1.20.1-2.6.11.jar",
     "modId": "voicechat",
-    "version": "1.20.1-2.6.10",
-    "curseForgeHash": 3164362297,
-    "modrinthHash": "e156b359a08eb56ddcfd3f8379c80002fec76867"
+    "version": "1.20.1-2.6.11",
+    "curseForgeHash": 2420507388,
+    "modrinthHash": "672aeb74607003370f5724bd2048e4d9d585c799"
   },
   "void_worm-angel_tale-forge-1.20.1.jar": {
     "jarName": "void_worm-angel_tale-forge-1.20.1.jar",
