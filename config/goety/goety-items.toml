@@ -228,6 +228,8 @@
 		#How many seconds Rampaging Axe gives Rampage for, Default: 10
 		#Range: > 1
 		rampagingAxeDuration = 10
+		#Whether Graverobber's Shovel only breaks two blocks if player is crouching, set to false to make it so that crouching breaks one block instead of two, Default: false
+		graverobberShovelCrouch = false
 
 	["Tools & Weapons".Misc]
 		#How much damage Philosopher's Mace deals, Default: 9.0

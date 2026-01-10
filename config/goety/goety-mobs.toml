@@ -709,6 +709,18 @@
 		apostleConvertsVillagers = true
 		#Gives Apostle an even more fancier death animation, Default: false
 		fancierApostleDeath = false
+		#Whether Apostles can summon Fire Tornadoes. Default: false
+		apostleTornado = false
+		#Whether Apostles can summon Hell Clouds. Default: true
+		apostleHellCloud = true
+		#Enable pre-nerf Apostle Nether/The Risen regeneration. Default: false
+		apostleQuickerRegen = false
+		#Enable pre-nerf Apostle The Glorious resistance. Default: false
+		apostleResistance = false
+		#Whether Apostles gain magic resistance if difficulty is on Hard. Default: false
+		apostleHardMagicResistance = false
+		#Whether Apostles can shoot Critical Hits on their Arrows. Default: true
+		apostleCritArrows = true
 
 	[Misc.Vizier]
 		#Whether Viziers are persistent and do not naturally despawn. Default: false

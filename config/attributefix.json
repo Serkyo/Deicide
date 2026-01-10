@@ -814,6 +814,17 @@
         "value": 100
       }
     },
+    "additional_attributes:innate_spell/darkdoppelganger/summon_doppel_minion": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "additional_attributes:spell/cataclysm_spellbooks/scorched_earth": {
       "enabled": false,
       "min": {
@@ -1442,6 +1453,17 @@
       }
     },
     "additional_attributes:innate_spell/cataclysm_spellbooks/incineration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "additional_attributes:spell/darkdoppelganger/summon_doppel_minion": {
       "enabled": false,
       "min": {
         "default": 0,

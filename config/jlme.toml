@@ -494,3 +494,15 @@
 	#Should you be able to find this enchantment on naturally generated loot
 	Findable = false
 
+["Healthy Heart"]
+	#Activates or disables enchantment
+	Active = true
+	#Should you be able to find this enchantment on naturally generated loot
+	Findable = true
+	#Max level of enchantment
+	"Max Level" = 2
+	#Base percentage of healing
+	"Base increase" = 0.1
+	#Percentage of healing increase per level
+	"Level increase" = 0.05
+
